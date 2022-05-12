@@ -1,0 +1,14 @@
+body {
+  font-size: 26px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  font-size: 14px;
+  margin-left: 20px;
+  color: #666;
+}

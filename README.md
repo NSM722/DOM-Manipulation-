@@ -1,2 +1,2 @@
 Basic DOM Manipulation
-A dynamic shopping list
+#A dynamic shopping list

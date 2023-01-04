@@ -10,5 +10,5 @@ Write your online shopping list now at [Shopping List](https://splendorous-fengl
 
 The finished demo appears similar to this: 
 
-<img width="290" alt="Shopping List " src="https://user-images.githubusercontent.com/83452606/180938091-0c54b25a-7c4d-45b4-998f-8d16e778c121.png">
+<img width="50%" alt="Shopping List " src="https://user-images.githubusercontent.com/83452606/180938091-0c54b25a-7c4d-45b4-998f-8d16e778c121.png">
 

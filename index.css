@@ -1,6 +1,7 @@
 body {
-  font-size: 26px;
+  font-size: 1.625rem;
   font-family: 'Times New Roman', Times, serif;
+  line-height: 1.6;
 }
 
 li {
@@ -11,4 +12,26 @@ li button {
   font-size: 14px;
   margin-left: 20px;
   color: #666;
+}
+
+.btn {
+  font-family: inherit;
+  text-transform: uppercase;
+  letter-spacing: 1.6;
+  border: none;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 5px;
+  background-color: #4c4c4c;
+  color: #fff;
+}
+
+.add-btn:hover,
+.add-btn:focus,
+.delete-btn:hover,
+.delete-btn:focus {
+  background-color: #ffaa0c;
+  color: #181818;
+  font-weight: bold;
+  transition: 300ms;
 }

@@ -26,6 +26,10 @@ li button {
   color: #fff;
 }
 
+input {
+  padding: 4px 8px;
+}
+
 .add-btn:hover,
 .add-btn:focus,
 .delete-btn:hover,

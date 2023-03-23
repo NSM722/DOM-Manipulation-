@@ -12,3 +12,29 @@ The finished demo appears similar to this:
 
 <img width="50%" alt="Shopping List " src="https://user-images.githubusercontent.com/83452606/180938091-0c54b25a-7c4d-45b4-998f-8d16e778c121.png">
 
+### Desired Settings of the tsconfig.json File
+```md
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library
+    
+    /* Modules */
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "rootDir": "./src",                                  /* Specify the root folder within your source files. */
+    
+    "outDir": "./dist",                                   /* Specify an output folder for all emitted files. */
+    "removeComments": true,                           /* Disable emitting comments. */
+    "noEmitOnError": true,                            /* Disable emitting files if any type checking errors are reported. */
+    "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+
+    /* Type Checking */
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  }
+}
+
+```
+
+
